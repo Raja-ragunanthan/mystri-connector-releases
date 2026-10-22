@@ -1,0 +1,9 @@
+{
+  "version": "1.2.0",
+  "url": "https://github.com/Raja-ragunanthan/mystri-connector-releases/releases/download/v1.2.0/MystriConnectorSetup-1.2.0.exe",
+  "sha256": "f9262ace39c4ea67cce0e42a3fb2ab69a2487397962e3680fb639b7f89aed9a9",
+  "size": 111555478,
+  "publishedAt": "2026-10-22T15:22:52.517Z",
+  "notes": "Trial balance and journals: Mystri reads ledger groups and opening balances, checks its trial balance against Tally's own figures and posts approved journals. Each pass says what is wrong at the Tally computer, Tally gets a break after a full read, and an optional morning wake syncs before work starts.",
+  "signature": "W21celKbHRzpSy+5py/2X2IG2yR+NkeqVJZjHgEVI102o6ui6ojTfN/5WK1zviqc1NIjeISyCw0fe/pjm7HYAA=="
+}
